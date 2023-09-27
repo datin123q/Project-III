@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../PJ1"
+		},
+		{
+			"path": "../QuanLyNhaHang_Nhom16"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../NiceAdmin"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CNPM-Project-main"
+	}
+}
